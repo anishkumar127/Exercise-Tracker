@@ -1,1 +1,1 @@
-ALTAS_URI = mongodb + srv://anish:7QBu8e5tnSJEa6Wv@cluster0.whkbm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+ALTAS_URI =
